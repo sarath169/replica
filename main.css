@@ -1,0 +1,144 @@
+.top-container{
+  padding: 200px 0 200px 0;
+  background-color: #393e46;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+.mid-container{
+  padding: 30px 100px 30px 100px;
+  background-color: #eeeeee;
+  display: flex;
+  height:auto;
+}
+.left{
+  margin-left: 190px;
+}
+.card-img{
+  background-color: #eeeeee;
+  height:70%;
+}
+.image{
+  width: 500px;
+  height: 500px;
+}
+.card-text{
+  font-size: 15px;
+}
+.card-deck{
+  height: 420px;
+  margin-left: 0;
+  margin-right: 0;
+}
+.container1{
+  padding: 0 115px 20px 115px;
+}
+.text-img{
+  position: relative;
+  font-size: 45px;
+  padding: 180px 115px 0 515px;
+  text-align: left;
+}
+.text-img1{
+  padding: 0 115px 50px 515px;
+  font-size: 19px;
+}
+.float{
+  position:absolute;
+}
+hr{
+  margin-top: 140px;
+}
+
+.item2{
+  margin-top: 70px;
+  text-align: center;
+}
+.appointment{
+    font-size: 2.5rem;
+}
+.lorem{
+  font-size: 20px;
+}
+.left-input {
+  margin: 5px 5px 5px 100px;
+  display: block;
+  width: 85%;
+  padding: 1.5rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #f9f7cf;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.right-input{
+  margin: 5px 5px 5px 5px;
+  display: block;
+  width: 85%;
+  padding: 1.5rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #f9f7cf;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.radio1{
+  margin-top: 30px;
+}
+.pad{
+  padding-left: 10px;
+}
+.button{
+  margin-top:20px;
+  width:30%;
+  padding: 10px 20px 10px 20px;
+  font-size: 15px;
+}
+.icon{
+  width: 40px;
+  height: 40px;
+}
+.icon1{
+  width: 20px;
+  height: 20px;
+}
+.links{
+  color: grey;
+
+}
+.voice{
+  color: grey;
+  font-size: 1.5rem;
+}
+.right-input1 {
+  margin: 5px 5px 5px 5px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  display: block;
+  background-color: #f9f7cf;
+  padding: 1.5rem 1.5rem;
+  width: 85%;
+}
+.footer{
+  padding:100px 115px 100px 115px;
+}
